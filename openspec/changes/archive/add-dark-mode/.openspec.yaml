@@ -1,0 +1,14 @@
+schema: spec-driven
+artifacts:
+  - id: proposal
+    path: proposal.md
+    done: true
+  - id: specs
+    path: specs/dark-mode-skill.md
+    done: true
+  - id: design
+    path: design.md
+    done: false
+  - id: tasks
+    path: tasks.md
+    done: false
